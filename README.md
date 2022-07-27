@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pradyumna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumnabisoyi/)](https://www.linkedin.com/in/pradyumnabisoyi/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Chatashali-purple)](https://www.chatashali.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-Chatashali-darkmagenta)](https://www.chatashali.com)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Chatashali-red)](https://www.youtube.com/channel/UCsytUzrd7WEin3NKu_n3siQ)
 
 I'm
