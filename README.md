@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Chatashali-red)](https://www.youtube.com/channel/UCsytUzrd7WEin3NKu_n3siQ)
 [![Linkedin Badge](https://img.shields.io/badge/-Pradyumna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumnabisoyi/)](https://www.linkedin.com/in/pradyumnabisoyi/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Chatashali-green)](https://www.chatashali.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-Chatashali-gray)](https://www.chatashali.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Chatashali-red)](https://www.youtube.com/channel/UCsytUzrd7WEin3NKu_n3siQ)
 
 I'm
 Full Stack Java Developer
