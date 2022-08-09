@@ -4,8 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Chatashali-darkmagenta)](https://www.chatashali.com)
 [![YouTube Badge](https://img.shields.io/badge/-Chatashali-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCsytUzrd7WEin3NKu_n3siQ/)](https://www.youtube.com/channel/UCsytUzrd7WEin3NKu_n3siQ)
 
-I'm
-Full Stack Java Developer. 
+I'm a Full Stack Java Developer. 
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile Banking, Insurance and Telecom applications. I have a wide range of skills that include back-end development using open source technologies (Java, Spring, hybernate), design (working closely with designers), front-end development (React, HTML5, CSS3, Javascript), Server Administrator(AWS), database(Oracle Pl/Sql, cassendra, Mysql), CI/CD(Docker, kubernetes)
 
 
